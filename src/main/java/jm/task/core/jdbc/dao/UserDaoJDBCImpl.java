@@ -1,8 +1,6 @@
 package jm.task.core.jdbc.dao;
 
 import jm.task.core.jdbc.model.User;
-import jm.task.core.jdbc.util.Util;
-import net.bytebuddy.dynamic.scaffold.MethodRegistry;
 
 import java.sql.*;
 import java.util.ArrayList;
